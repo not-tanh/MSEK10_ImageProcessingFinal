@@ -1,0 +1,14 @@
+.idea
+.ipynb_checkpoints
+__pycache__
+chromedriver
+*.bak
+images
+checkpoint.json
+data.json
+knn.pkl
+test.py
+*.ann
+h5_indexes*
+crawled_urls.txt
+updater.py
